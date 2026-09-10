@@ -45,4 +45,4 @@ Output clean JSON if you want to pipe into `jq`:
 txdec --json 0x02f87... | jq '.to, .value'
 ```
 
-<!-- refreshed: 2026-09-09 -->
+<!-- refreshed: 2026-09-10 -->
